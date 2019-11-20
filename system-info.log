@@ -1,0 +1,191 @@
+Computer Information:
+    Manufacturer:  Unknown
+    Model:  Unknown
+    Form Factor: Desktop
+    No Touch Input Detected
+
+Processor Information:
+    CPU Vendor:  AuthenticAMD
+    CPU Brand:  AMD Ryzen 9 3900X 12-Core Processor            
+    CPU Family:  0x17
+    CPU Model:  0x71
+    CPU Stepping:  0x0
+    CPU Type:  0x0
+    Speed:  3800 Mhz
+    24 logical processors
+    12 physical processors
+    HyperThreading:  Supported
+    FCMOV:  Supported
+    SSE2:  Supported
+    SSE3:  Supported
+    SSSE3:  Supported
+    SSE4a:  Supported
+    SSE41:  Supported
+    SSE42:  Supported
+    AES:  Supported
+    AVX:  Supported
+    AVX2:  Unsupported
+    AVX512F:  Unsupported
+    AVX512PF:  Unsupported
+    AVX512ER:  Unsupported
+    AVX512CD:  Unsupported
+    AVX512VNNI:  Unsupported
+    SHA:  Unsupported
+    CMPXCHG16B:  Supported
+    LAHF/SAHF:  Supported
+    PrefetchW:  Unsupported
+
+Operating System Version:
+    "Gentoo Base System release 2.6" (64 bit)
+    Kernel Name:  Linux
+    Kernel Version:  5.3.11-lqx2
+    X Server Vendor:  The X.Org Foundation
+    X Server Release:  12005000
+    X Window Manager:  dwm
+    Steam Runtime Version:  steam-runtime_0.20191024.0
+
+Video Card:
+    Driver:  X.Org Radeon RX Vega (VEGA10, DRM 3.33.0, 5.3.11-lqx2, LLVM 9.0.1)
+    Driver Version:  4.5 (Compatibility Profile) Mesa 20.0.0-devel (git-36c055c9b7)
+    OpenGL Version: 4.5
+    Desktop Color Depth: 24 bits per pixel
+    Monitor Refresh Rate: 143 Hz
+    VendorID:  0x1002
+    DeviceID:  0x687f
+    Revision Not Detected
+    Number of Monitors:  1
+    Number of Logical Video Cards:  1
+    Primary Display Resolution:  2560 x 1440
+    Desktop Resolution: 2560 x 1440
+    Primary Display Size: 23.50" x 13.23" (26.97" diag)
+                                            59.7cm x 33.6cm (68.5cm diag)
+    Primary VRAM: 8192 MB
+
+Sound card:
+    Audio device: ATI R6xx HDMI
+
+Memory:
+    RAM:  32134 Mb
+
+Miscellaneous:
+    UI Language:  English
+    LANG:  en_US.utf8
+    Total Hard Disk Space Available:  468233 Mb
+    Largest Free Hard Disk Block:  7309 Mb
+    VR Headset: None detected
+
+Steam Linux Runtime Information:
+{
+  "can-write-uinput" : false,
+  "steam-installation" : {
+    "path" : "/home/user/.local/share/Steam",
+    "data_path" : "/home/user/.local/share/Steam",
+    "issues" : [
+    ]
+  },
+  "runtime" : {
+    "path" : "/home/user/.local/share/Steam/ubuntu12_32/steam-runtime",
+    "version" : "0.20191024.0",
+    "issues" : [
+    ]
+  },
+  "os-release" : {
+    "id" : "gentoo",
+    "name" : "Gentoo",
+    "pretty_name" : "Gentoo/Linux"
+  },
+  "architectures" : {
+    "i386-linux-gnu" : {
+      "can-run" : true,
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : "ERROR: [Loader Message] Code 0 : /usr/lib64/libvulkan_radeon.so: wrong ELF class: ELFCLASS64\n",
+          "renderer" : "AMD RADV VEGA10 (LLVM 9.0.1)",
+          "version" : "1.1.107 (device 1002:687f) (driver 19.99.99)"
+        },
+        "glx/gl" : {
+          "renderer" : "Radeon RX Vega (VEGA10, DRM 3.33.0, 5.3.11-lqx2, LLVM 9.0.1)",
+          "version" : "4.5 (Compatibility Profile) Mesa 20.0.0-devel (git-36c055c9b7)"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "Radeon RX Vega (VEGA10, DRM 3.33.0, 5.3.11-lqx2, LLVM 9.0.1)",
+          "version" : "4.5 (Compatibility Profile) Mesa 20.0.0-devel (git-36c055c9b7)"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "Radeon RX Vega (VEGA10, DRM 3.33.0, 5.3.11-lqx2, LLVM 9.0.1)",
+          "version" : "OpenGL ES 3.2 Mesa 20.0.0-devel (git-36c055c9b7)"
+        }
+      }
+    },
+    "x86_64-linux-gnu" : {
+      "can-run" : true,
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : "ERROR: [Loader Message] Code 0 : /usr/lib/libvulkan_radeon.so: wrong ELF class: ELFCLASS32\n",
+          "renderer" : "AMD RADV VEGA10 (LLVM 9.0.1)",
+          "version" : "1.1.107 (device 1002:687f) (driver 19.99.99)"
+        },
+        "glx/gl" : {
+          "renderer" : "Radeon RX Vega (VEGA10, DRM 3.33.0, 5.3.11-lqx2, LLVM 9.0.1)",
+          "version" : "4.5 (Compatibility Profile) Mesa 20.0.0-devel (git-36c055c9b7)"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "Radeon RX Vega (VEGA10, DRM 3.33.0, 5.3.11-lqx2, LLVM 9.0.1)",
+          "version" : "4.5 (Compatibility Profile) Mesa 20.0.0-devel (git-36c055c9b7)"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "Radeon RX Vega (VEGA10, DRM 3.33.0, 5.3.11-lqx2, LLVM 9.0.1)",
+          "version" : "OpenGL ES 3.2 Mesa 20.0.0-devel (git-36c055c9b7)"
+        }
+      }
+    }
+  },
+  "locale-issues" : [
+  ],
+  "locales" : {
+    "<default>" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "C" : {
+      "resulting-name" : "C",
+      "charset" : "ANSI_X3.4-1968",
+      "is_utf8" : false
+    },
+    "C.UTF-8" : {
+      "resulting-name" : "C.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "en_US.UTF-8" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    }
+  },
+  "egl" : {
+    "icds" : [
+    ]
+  },
+  "vulkan" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/radeon_icd.x86_64.json",
+        "library_path" : "/usr/lib64/libvulkan_radeon.so",
+        "api_version" : "1.1.107"
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/radeon_icd.i686.json",
+        "library_path" : "/usr/lib/libvulkan_radeon.so",
+        "api_version" : "1.1.107"
+      }
+    ]
+  }
+}
+
+The Steam Linux Runtime container tool is not installed.
